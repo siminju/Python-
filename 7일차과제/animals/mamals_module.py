@@ -1,0 +1,1 @@
+val_2 = "Dog", "Cat", "Cow", "Horse" 
